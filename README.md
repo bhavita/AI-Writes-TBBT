@@ -10,6 +10,7 @@ My close friends and I have been big fan of [The Big Bang Theory](https://en.wik
 Example Episodes 
 
 [https://bigbangtrans.wordpress.com/series-1-episode-1-pilot-episode/](https://bigbangtrans.wordpress.com/series-1-episode-1-pilot-episode/)
+
 [https://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/](https://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/)
 
 Preparing a reference json for episodes list and scraping the website for the content, 202 episodes dataset was prepared here which was used to train the model - [https://github.com/bhavita/AI-Writes-TBBT/tree/master/DataSet](https://github.com/bhavita/AI-Writes-TBBT/tree/master/DataSet)
