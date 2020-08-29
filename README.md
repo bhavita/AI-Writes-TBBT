@@ -71,6 +71,16 @@ While honestly 50% texts generated din make relevant sense, it was pretty funny 
     who wants to go into space.
 
 *Sample Text 3*
+    
+    Scene: The comic book store. 
+    Leonard: Who would win in Batman vs Superman fight? Superman’s got that big, 
+    fiery G-string. 
+    Sheldon: I’m not going to comment on the merits of a candidate, but I believe 
+    I can come up with a hypothetical response. 
+    Leonard: Batman might be the best superhero, but Batman doesn’t have a head. 
+    Sheldon: I’m not gonna say that. I’m not gonna say it.Flash in a air.
+
+*Sample Text 4*
 
       Scene: The comic book store.
       Leonard: Who would win in Batman vs Superman fight?
