@@ -1,5 +1,5 @@
 # AI Writes TBBT
-Training GPT-2 Model for Big bang theory and using the text generation implemention, let AI take the essence of our beloved characters, generate and write the TBBT for us <3 
+Taking help of GPT-2 model and training it for The Big Bang Theory corpus, let AI write TBBT for us <3 
 
 ## Inspiration 
 My close friends and I have been big fan of [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory). And if you are a fan, you know how much you miss the series. Insipiration was to train a model on the TBBT corpus and let AI take the essence of our beloved characters, cast its magic and write the TBBT for us which is missed.
