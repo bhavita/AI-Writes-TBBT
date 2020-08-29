@@ -73,21 +73,20 @@ While honestly 50% texts generated din make relevant sense, it was pretty funny 
 *Sample Text 3*
     
     Scene: The comic book store. 
-    Leonard: Who would win in Batman vs Superman fight? Superman’s got that big, 
-    fiery G-string. 
-    Sheldon: I’m not going to comment on the merits of a candidate, but I believe 
-    I can come up with a hypothetical response. 
+    Leonard: Who would win in Batman vs Superman fight? Superman’s got that big, fiery G-string. 
+    Sheldon: I’m not going to comment on the merits of a candidate, but I believe I can come up 
+    with a hypothetical response. 
     Leonard: Batman might be the best superhero, but Batman doesn’t have a head. 
     Sheldon: I’m not gonna say that. I’m not gonna say it.Flash in a air.
 
 *Sample Text 4*
 
-      Scene: The comic book store.
-      Leonard: Who would win in Batman vs Superman fight?
-      Raj: I don’t know. Maybe he’ll use his superpowers to defeat Superman.
-      Howard: Maybe hell use his powers to defeat the Flash.
-      Raj: Maybe he'll defeat Superman by flying away from his plant in the middle of the desert sun.
-      Sheldon: Superpowers? That’s funny.
+    Scene: The comic book store.
+    Leonard: Who would win in Batman vs Superman fight?
+    Raj: I don’t know. Maybe he’ll use his superpowers to defeat Superman.
+    Howard: Maybe hell use his powers to defeat the Flash.
+    Raj: Maybe he'll defeat Superman by flying away from his plant in the middle of the desert sun.
+    Sheldon: Superpowers? That’s funny.
 
 ## License
  
