@@ -43,16 +43,6 @@ Minor details regarding parameterization
 
 While honestly 50% texts generated din make relevant sense, it was pretty funny to see them turn out :) 
 
-Generation snippet : 
-  
-
-      gpt2.generate(sess,run_name='model',
-                      prefix="Scene: The comic book store.\nLeonard: Who would win in Batman vs Superman fight?",
-                      temperature=0.8,
-                      length=100,
-                      top_p=0.9,
-                      )
-
 **Starting scene provided to the model:** 
 
     Scene: The comic book store.
