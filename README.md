@@ -17,7 +17,8 @@ Preparing a reference json for episodes list and scraping the website for the co
 
 ## Implementation
 
-Model trained over GPT-2 - [AI-Writes-TBBT]([https://github.com/bhavita/AI-Writes-TBBT/blob/master/AI_Writes_TBBT_Using_GPT_2_Text_Generating_Model.ipynb](https://github.com/bhavita/AI-Writes-TBBT/blob/master/AI_Writes_TBBT_Using_GPT_2_Text_Generating_Model.ipynb))
+Model trained over GPT-2 - 
+Implementation : - [AI-Writes_TBBT.ipynb](https://github.com/bhavita/AI-Writes-TBBT/blob/master/AI_Writes_TBBT_Using_GPT_2_Text_Generating_Model.ipynb)
 
 Minor details regarding parameterization 
 
