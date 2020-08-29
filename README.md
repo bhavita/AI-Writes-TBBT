@@ -57,6 +57,7 @@ Generation snippet :
     Leonard: Who would win in Batman vs Superman fight?
  
  **Generated Texts**
+
  *Sample Text 1*
 
     Scene: The comic book store.
