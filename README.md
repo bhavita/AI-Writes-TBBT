@@ -5,9 +5,10 @@ Training GPT-2 Model for Big bang theory and using the text generation implement
 My close friends and I have been big fan of [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory). And if you are a fan, you know how much you miss the series. Insipiration was to train a model on the TBBT corpus and let AI take the essence of our beloved characters, cast its magic and write the TBBT for us which is missed.
 
 ## DataSets utilized for training
-bigbangtrans.wordpress.com proved to be a great reference to retrieve transcript for The Big Bang Theory Episodes. 
+[bigbangtrans.wordpress.com](https://bigbangtrans.wordpress.com) proved to be a great reference to retrieve transcript for The Big Bang Theory Episodes. 
 
 Example Episodes 
+
 [https://bigbangtrans.wordpress.com/series-1-episode-1-pilot-episode/](https://bigbangtrans.wordpress.com/series-1-episode-1-pilot-episode/)
 [https://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/](https://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/)
 
@@ -61,8 +62,10 @@ Generation snippet :
  *Sample Text 1*
 
     Scene: The comic book store.
-    Leonard: Who would win in Batman vs Superman fight? Superman, Waluigi, Wonder Twins, Dr. Jekyll and Mrs. Whore?
-    Sheldon: I’m sorry, Dr. Whore? I was thinking of putting a damper on the whole DC multiverse, not just the one where Superman is king.
+    Leonard: Who would win in Batman vs Superman fight? Superman, Waluigi, Wonder Twins, Dr. Jekyll
+    and Mrs. Whore?
+    Sheldon: I’m sorry, Dr. Whore? I was thinking of putting a damper on the whole DC multiverse, 
+    not just the one where Superman is king.
     Leonard: Great, I’m going to start a new one.
     Sheldon: Oh, I think I saved that one for last. It’s called Jekyll and Mr Hyde.
 
@@ -70,9 +73,11 @@ Generation snippet :
 
     Scene: The comic book store. 
     Leonard: Who would win in Batman vs Superman fight?
-    Sheldon: I don’t know. How could Batman win? Superman has a body that looks like that of a Bat, but he’s too big for Superman’s body. Batman has Superman’s Kryptonian DNA. 
+    Sheldon: I don’t know. How could Batman win? Superman has a body that looks like that of a Bat, 
+    but he’s too big for Superman’s body. Batman has Superman’s Kryptonian DNA. 
     Leonard: So both? 
-    Sheldon: The Dark Knight. Superman’s the son of Krypton, and Batman is his Kryptonian cousin, who wants to go into space.
+    Sheldon: The Dark Knight. Superman’s the son of Krypton, and Batman is his Kryptonian cousin, 
+    who wants to go into space.
 
 *Sample Text 3*
 
