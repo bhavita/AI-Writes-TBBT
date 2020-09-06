@@ -5,7 +5,9 @@ Taking help of GPT-2 model and training it for The Big Bang Theory corpus, let A
 My close friends and I have been big fan of [The Big Bang Theory](https://en.wikipedia.org/wiki/The_Big_Bang_Theory). And if you are a fan, you know how much you miss the series. Insipiration was to train a model on the TBBT corpus and let AI take the essence of our beloved characters, cast its magic and write the TBBT for us which is missed.
 
 ## DataSets utilized for training
-[bigbangtrans.wordpress.com](https://bigbangtrans.wordpress.com) proved to be a great reference to retrieve transcript for The Big Bang Theory Episodes. 
+Reference website : [bigbangtrans.wordpress.com](https://bigbangtrans.wordpress.com)
+
+This proved to be a great reference to retrieve transcript for The Big Bang Theory Episodes. 
 
 Example Episodes 
 
@@ -13,7 +15,15 @@ Example Episodes
 
 [https://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/](https://bigbangtrans.wordpress.com/series-1-episode-2-the-big-bran-hypothesis/)
 
-Preparing a reference json for episodes list and scraping the website for the content, 202 episodes dataset was prepared here which was used to train the model - [https://github.com/bhavita/AI-Writes-TBBT/tree/master/DataSet](https://github.com/bhavita/AI-Writes-TBBT/tree/master/DataSet)
+Steps undertaken for preparation 
+
+1. Prepared a reference json for identifying the episodes list(as above),
+2. Scraped the webpage for content containing the transcripts of episode, 
+3. Cleaned up majority of surrounding tags and formatting, and the 202 episodes dataset was prepared.
+
+DataSet - [https://github.com/bhavita/AI-Writes-TBBT/tree/master/DataSet](https://github.com/bhavita/AI-Writes-TBBT/tree/master/DataSet)
+   
+   This dataset was then used to train the model.
 
 
 
