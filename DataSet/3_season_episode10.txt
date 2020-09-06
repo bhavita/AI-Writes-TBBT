@@ -258,5 +258,6 @@ Scene: The apartment.
 Bernadette: Raj, you should’ve seen Leonard’s experiment. The interference pattern was so cool when the electron beam was on.
 Leonard: I’m glad you enjoyed it. Most people aren’t that interested in what I do.
 Penny: Actually, that’s not true, Leonard. In fact, recently I’ve been thinking that given the parameters of your experiment, the transport of electrons through the aperture the nano-fabricated metal rings is qualitatively no different than the experiment already conducted in the Netherlands. Their observed phase shift in the diffusing electrons inside the metal ring already conclusively demonstrated the electric analogue of the Aharonov-Bohm quantum-interference effect. That’s it. That’s all I know. Oh, wait! Fig Newtons were named after a town in Massachusetts, not the scientist.
-Like this:Like Loading...								
 			
+Source : bigbangtrans.wordpress.com,
+ Prepared by :bhavita
